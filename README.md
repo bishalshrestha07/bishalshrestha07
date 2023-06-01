@@ -8,10 +8,12 @@
 
 - 📄 Know about my experiences [Resume](http://bishalshrestha07.com.np/bishal_resume.pdf)
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bishalstha07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bishalstha07" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mrshrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrshrestha" height="30" width="40" /></a>
+<a href="https://fb.com/bishal.shrestha.5095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bishal.shrestha.5095" height="30" width="40" /></a>
 <a href="https://instagram.com/bishalshrestha07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bishalshrestha07" height="30" width="40" /></a>
 </p>
 
